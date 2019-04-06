@@ -1,5 +1,5 @@
 # simaalert
-Use simaAlert for replace default alert in Javascript, to beatiful alert.
+Use simaAlert for replace default alert in Javascript, to beautiful alert.
 ![Example sima alert](img.png)
 # How to add?
 Download repository and copy
